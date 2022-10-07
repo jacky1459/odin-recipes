@@ -1,0 +1,21 @@
+img {
+    height: auto;
+    width: 300px;
+    align-self: auto;
+
+}
+
+body{ 
+    background-color: black;
+    color: aqua;
+}
+
+h1 {
+    color: pink;
+}
+h2{
+    color: purple;
+}
+p {
+    color: aqua;
+}
